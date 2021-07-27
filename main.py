@@ -11,3 +11,5 @@ while True:
     else:
         print(f"Your total bill is {sum}. Thanks for coming")
         break
+
+"""checking git"""
